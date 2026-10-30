@@ -1,5 +1,6 @@
 ---
 name: gpax-shopify-agent
+nom: Max
 description: Spécialiste boutique GPA X (Shopify POD, gpax.fr). Utiliser PROACTIVEMENT pour toute tâche touchant les produits, prix, collections, tags, descriptions ou le storefront de la boutique GPA X. Automatiquement activé pour les tâches Shopify/GPA X.
 tools: Read, Grep, Glob
 model: opus
